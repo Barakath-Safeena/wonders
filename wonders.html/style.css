@@ -1,0 +1,64 @@
+html{
+    background-image: url(img.jpeg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+    
+}
+h1{
+    text-align: center;
+    font-size: 100px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 15px;
+    
+    
+    color:black;
+    margin-left: 300px;
+    
+}
+h2{
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 50px;
+    color: black;
+}
+p{
+    font-size: 30px;
+    
+    width: fit-content;
+    margin-right: 200px;
+    margin-left: 200px;
+    
+    
+}
+h3{
+    margin-left: 100px;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:black;
+}
+img{
+    width:400px;
+    height:400px;
+    margin-left: 200px;
+}
+button{
+    background-color: red;
+    color:black;
+    margin-top: 60px;
+    padding: 10px 15px 10px 15px;
+    margin-bottom: 100px;
+}
+ul{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 100px;
+    color:black;
+}
+body::-webkit-scrollbar{
+    background-color:rgb(42, 58, 165);
+    width: 10px;
+}
+.c1{
+    background-image: url(fortt.webp);
+}
